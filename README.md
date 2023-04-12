@@ -6,9 +6,9 @@ This is a simple library management system built using Python and MongoDB. It al
 # Installation
 To run this program, you will need to have the following dependencies installed:
 
-Python 3
-Tkinter
-pymongo
+Python 3 <br>
+Tkinter<br>
+pymongo<br>
 
 You can install Tkinter and pymongo using pip:
 pip install tkinter pymongo
